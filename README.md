@@ -90,12 +90,13 @@ These repos show my step‑by‑step derivations, implementations, and experimen
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning/Attempting
 
 - Advanced machine learning and optimization techniques.
 - Modern NLP (transformers, attention, representation learning).
 - Better software engineering practices (testing, structure, reproducibility).
 - Improving my C++, Python, and Javascript skills for production‑ready apps.
+- work on
 
 ---
 
@@ -105,18 +106,17 @@ These repos show my step‑by‑step derivations, implementations, and experimen
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-Qt%20Apps-blue?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-Env%20Mgmt-44A833?logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-Backend-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-Numerics-0076A8?logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Stats-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-Config-57A143?logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-Automation-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Systems-000000?logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Databases-4479A1?logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## My contributions
-
 ![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
-
----
-
-## 📊 GitHub Stats (Optional)
-
-You can uncomment these if you like stat cards.
