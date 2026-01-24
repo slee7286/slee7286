@@ -6,7 +6,7 @@
   <a href="https://github.com/slee7286">GitHub</a> •
   <a href="#-projects">Projects</a> •
   <a href="#-coursework">Coursework</a> •
-  <a href="#-currently-learning/attempting">Learning</a>
+  <a href="#-current-work">Current Work</a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ These repos show my coding work, notes (in LaTeX), implementations, and experime
 
 ---
 
-## 📚 Currently Learning/Attempting
+## 📚 Current Work
 
 - Advanced machine learning and optimization techniques.
 - Modern NLP (transformers, attention, representation learning).
