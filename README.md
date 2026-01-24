@@ -27,7 +27,13 @@
 
 Developed a compact GPT‑style language model inspired by Karpathy’s minGPT and pre‑trained it on the Wikipedia corpus. Incorporated rotary positional embeddings (RoPE), achieving a 2.3× improvement in benchmark performance compared to a baseline model using standard positional embeddings.
 
-➡️ Repo: [Mini GPT](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src)
+➡️ Repo: [Mini-GPT](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src)
+
+### Cherokee–English Seq2Seq NMT Model
+
+esigned a neural machine translation system with a bidirectional LSTM encoder and unidirectional decoder, achieving BLEU 11.77 on the Bible corpus, demonstrating ability to handle low-resource languages.
+
+➡️ Repo: [Cherokee-English Machine Translational](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A4/src)
 
 ---
 
