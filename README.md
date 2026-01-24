@@ -71,7 +71,9 @@ These repos show my coding work, notes (in LaTeX), implementations, and experime
   <img src="https://img.shields.io/badge/SQL-Databases-4479A1?logo=mysql&logoColor=white" />
 </p>
 
-![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
+<p align="center">
+  ![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
+</p>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=slee7286&show_icons=true&theme=tokyonight"
