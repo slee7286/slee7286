@@ -50,17 +50,10 @@ Developed a compact GPT‑style language model inspired by Karpathy’s minGPT a
 
 | Course | Description |
 |------|-------------|
-| [XCS229: Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
-| [XCS224N: Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
-| [XCS234: Reinforcement Learning](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning <br/>
-| [Imperial Year 1 Trimester 1](https://github.com/slee7286/Module_Work) | BUSI40001: Mathematical Foundations, BUSI40002: Probability and Statistics, BUSI40003: Introduction to Data Science, BUSI40004: Big Issues in Economics and Finance <br/>
-| [WCAG](https://github.com/matteobaccan/CorsoWCAG) | Materiale in italiano del mio corso WCAG - Slide ed esempi |
-| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano del mio corso sull'intelligenza artificiale - Slide | 
-| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano del mio corso di UX Design - Slide, domande di autovalutazione |
-| [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi | 
-| [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
-| [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
-| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | **in preparazione** Materiale in italiano propedeutico del mio corso HTMX - Slide ed esempi |
+| [Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
+| [Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
+| [Reinforcement Learning](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning |
+| [Imperial Year 1 Trimester 1](https://github.com/slee7286/Module_Work) | Mathematical Foundations, Probability and Statistics, Introduction to Data Science, Big Issues in Economics and Finance |
 
 These repos show my coding work, notes (in LaTeX), implementations, and experiments.
 
