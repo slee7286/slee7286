@@ -36,7 +36,7 @@
 
 ---
 
-## Projects
+## 🎯 Projects
 
 ### Mini-GPT with Rotary Embeddings
 
@@ -46,29 +46,7 @@ Developed a compact GPT‑style language model inspired by Karpathy’s minGPT a
 
 ---
 
-### 📈 JPX_prediction – Time Series & ML on Financial Data ^1^ 
-
-A set of Jupyter notebooks exploring predictive modeling for JPX-style financial data.
-
-**What’s inside:**
-
-- Data exploration and feature engineering for time‑series data.
-- Classical ML baselines and experimentation.
-- Emphasis on clear, documented notebooks.
-
-➡️ Repo: [JPX_prediction](https://github.com/slee7286/JPX_prediction)
-
----
-
-### 🎓 Course Work
-
-I keep my course work in separate repositories:
-
-- **XCS229-Work** – Machine learning coursework and experiments (e.g. regression, SVMs, logistic regression, EM) ^1^   
-  ➡️ [XCS229-Work](https://github.com/slee7286/XCS229-Work)
-
-- **XCS224N-Work** – Deep learning for NLP (word embeddings, RNNs/LSTMs, attention, transformers) ^1^   
-  ➡️ [XCS224N-Work]()
+### 🎓 Coursework
 
 | Course | Description |
 |------|-------------|
@@ -84,7 +62,7 @@ I keep my course work in separate repositories:
 | [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
 | [HTMX](https://github.com/matteobaccan/CorsoHTMX) | **in preparazione** Materiale in italiano propedeutico del mio corso HTMX - Slide ed esempi |
 
-These repos show my step‑by‑step derivations, implementations, and experiment notes.
+These repos show my coding work, notes (in LaTeX), implementations, and experiments.
 
 ---
 
@@ -94,7 +72,7 @@ These repos show my step‑by‑step derivations, implementations, and experimen
 - Modern NLP (transformers, attention, representation learning).
 - Better software engineering practices (testing, structure, reproducibility).
 - Improving my C++, Python, and Javascript skills for production‑ready apps.
-- work on
+- Work on redeveloping the backend of Imperial College London Rocketry's Pickle boart
 
 ---
 
@@ -114,7 +92,3 @@ These repos show my step‑by‑step derivations, implementations, and experimen
   <img src="https://img.shields.io/badge/Rust-Systems-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Databases-4479A1?logo=mysql&logoColor=white" />
 </p>
-
----
-
-![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
