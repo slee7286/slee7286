@@ -13,6 +13,19 @@
 
 ![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
 [![Siheon's Github Stats](https://github-readme-stats.vercel.app/api?username=slee7286&count_private=true&cache=true)](https://github.com/slee7286)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=slee7286&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=slee7286&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
+</p>
 
 ## About Me
 
@@ -92,20 +105,3 @@ These repos show my step‑by‑step derivations, implementations, and experimen
 ## 📊 GitHub Stats (Optional)
 
 You can uncomment these if you like stat cards.
-
-```html
-<!--
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=slee7286&show_icons=true&theme=tokyonight"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=slee7286&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
--->
