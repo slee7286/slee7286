@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://github.com/slee7286">GitHub</a> •
   <a href="#-projects">Projects</a> •
-  <a href="#-tooling--dotfiles">Tooling</a> •
-  <a href="#-currently-learning">Learning</a>
+  <a href="#-coursework">Coursework</a> •
+  <a href="#-currently-learning/attempting">Learning</a>
 </p>
 
 ---
