@@ -11,21 +11,6 @@
 
 ---
 
-![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=slee7286&show_icons=true&theme=tokyonight"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=slee7286&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
-
 ## About Me
 
 - 👨‍🎓 I work through advanced ML/AI coursework and hands‑on projects (e.g. Stanford CS229 / CS224N style material).
@@ -78,6 +63,22 @@ These repos show my coding work, notes (in LaTeX), implementations, and experime
   <img src="https://img.shields.io/badge/Conda-Env%20Mgmt-44A833?logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-Backend-007396?logo=java&logoColor=white" />
+</p>
+
+![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=slee7286&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=slee7286&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
+</p>
   <img src="https://img.shields.io/badge/MATLAB-Numerics-0076A8?logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/R-Stats-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?logo=dart&logoColor=white" />
