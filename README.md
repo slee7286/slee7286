@@ -11,28 +11,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
+[![Siheon's Github Stats](https://github-readme-stats.vercel.app/api?username=slee7286&count_private=true&cache=true)](https://github.com/slee7286)
+
+## About Me
 
 - 👨‍🎓 I work through advanced ML/AI coursework and hands‑on projects (e.g. Stanford CS229 / CS224N style material).
 - 📊 I enjoy building end‑to‑end data/ML workflows: from exploratory notebooks to deployable code.
-- 🧪 I like experimenting with new tools and editors – especially Neovim and modern C++/Qt.
+- I like experimenting with new tools and editors
 
 > This profile mainly showcases my learning process, experiments, and small tools.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🪟 GlassPlate – Cross‑Platform App (Dart / Flutter) ^1^ 
+### GlassPlate – Cross‑Platform App (Dart / Flutter) ^1^ 
 
 A multi‑platform application built in Dart.  
-(You can customize this description when you’re ready to make the repo public-facing.)
-
-**Highlights:**
-
-- Written in Dart (Flutter-style architecture).
-- Focus on clean UI and cross‑platform behavior.
-- Good example of how I structure non‑notebook projects.
 
 ➡️ Repo: [GlassPlate](https://github.com/slee7286/GlassPlate)
 
@@ -66,48 +62,14 @@ These repos show my step‑by‑step derivations, implementations, and experimen
 
 ---
 
-### 🖥️ QtApp – C++ / Qt Desktop Application ^1^ 
-
-A Qt‑based C++ application, used as a playground for GUI development and C++ best practices.
-
-**Focus areas:**
-
-- Modern C++ patterns.
-- Qt widgets / signals / slots.
-- Clean project structure and build setup.
-
-➡️ Repo: [QtApp](https://github.com/slee7286/QtApp)
-
----
-
-## 🧰 Tooling & Dotfiles
-
-I maintain my configuration in a dedicated repo:
-
-- **.config** – Neovim configuration optimized for LaTeX and writing, plus other tooling tweaks ^1^ .  
-  Forked from `benbrastmckie/.config` with my own customizations.
-
-➡️ Repo: [.config](https://github.com/slee7286/.config)
-
-**Highlights:**
-
-- Neovim setup tailored for LaTeX and productive writing.
-- Opinionated defaults and curated plugins.
-- A good snapshot of my day‑to‑day development environment.
-
----
-
 ## 📚 Currently Learning
 
 - Advanced machine learning and optimization techniques.
 - Modern NLP (transformers, attention, representation learning).
-- Better software engineering practices around ML (testing, structure, reproducibility).
-- Improving my C++/Qt and Dart/Flutter skills for production‑ready apps.
+- Better software engineering practices (testing, structure, reproducibility).
+- Improving my C++, Python, and Javascript skills for production‑ready apps.
 
 ---
-
-![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
-[![Siheon's Github Stats](https://github-readme-stats.vercel.app/api?username=slee7286&count_private=true&cache=true)](https://github.com/slee7286)
 
 ## 🧩 Tech I Use
 
