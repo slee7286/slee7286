@@ -72,8 +72,9 @@ These repos show my coding work, notes (in LaTeX), implementations, and experime
 </p>
 
 <p align="center">
-  ![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
+  <img src="https://komarev.com/ghpvc/?username=slee7286&color=blueviolet" />
 </p>
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=slee7286&show_icons=true&theme=tokyonight"
