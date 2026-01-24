@@ -63,6 +63,12 @@ These repos show my coding work, notes (in LaTeX), implementations, and experime
   <img src="https://img.shields.io/badge/Conda-Env%20Mgmt-44A833?logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-Backend-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-Numerics-0076A8?logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Stats-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-Automation-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Systems-000000?logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Databases-4479A1?logo=mysql&logoColor=white" />
 </p>
 
 ![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
@@ -78,11 +84,4 @@ These repos show my coding work, notes (in LaTeX), implementations, and experime
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=slee7286&layout=compact&theme=tokyonight"
     alt="Top languages"
   />
-</p>
-  <img src="https://img.shields.io/badge/MATLAB-Numerics-0076A8?logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Stats-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-Automation-217346?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-Systems-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Databases-4479A1?logo=mysql&logoColor=white" />
 </p>
