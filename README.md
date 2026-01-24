@@ -40,11 +40,11 @@
 
 ## Projects
 
-### GlassPlate – Cross‑Platform App (Dart / Flutter) ^1^ 
+### Mini-GPT with Rotary Embeddings
 
-A multi‑platform application built in Dart.  
+Developed a compact GPT‑style language model inspired by Karpathy’s minGPT and pre‑trained it on the Wikipedia corpus. Incorporated rotary positional embeddings (RoPE), achieving a 2.3× improvement in benchmark performance compared to a baseline model using standard positional embeddings.
 
-➡️ Repo: [GlassPlate](https://github.com/slee7286/GlassPlate)
+➡️ Repo: [Mini GPT](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src)
 
 ---
 
@@ -73,10 +73,10 @@ I keep my course work in separate repositories:
   ➡️ [XCS224N-Work]()
 
 | Course | Description |
-|-------|-------------|
+|------|-------------|
 | [XCS229: Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
 | [XCS224N: Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
-| [XCS234: ](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning <br/>
+| [XCS234: Reinforcement Learning](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning <br/>
 | [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano del mio corso CSS3 - Slide ed esempi <br/>
 | [WCAG](https://github.com/matteobaccan/CorsoWCAG) | Materiale in italiano del mio corso WCAG - Slide ed esempi |
 | [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano del mio corso sull'intelligenza artificiale - Slide | 
