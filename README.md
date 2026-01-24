@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/slee7286 -->
 
-<h1 align="center">Hi there, I'm Sean 👋</h1>
+<h1 align="center">Hi there, I'm Siheon 👋</h1>
 
 <p align="center">
   <a href="https://github.com/slee7286">GitHub</a> •
