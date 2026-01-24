@@ -13,9 +13,9 @@
 
 ## About Me
 
-- 👨‍🎓 I work through advanced ML/AI coursework and hands‑on projects (e.g. Stanford CS229 / CS224N style material).
-- 📊 I enjoy building end‑to‑end data/ML workflows: from exploratory notebooks to deployable code.
-- I like experimenting with new tools and editors
+- I work through advanced ML/AI coursework and hands‑on projects (e.g. Stanford CS229 / CS224N style material).
+- I enjoy building end‑to‑end data workflows: from exploratory notebooks to deployable code.
+- I like experimenting with new tools and editors.
 
 > This profile mainly showcases my learning process, experiments, and small tools.
 
@@ -56,7 +56,7 @@ These repos show my coding work, notes (in LaTeX), implementations, and experime
 - Modern NLP (transformers, attention, representation learning).
 - Better software engineering practices (testing, structure, reproducibility).
 - Improving my C++, Python, and Javascript skills for production‑ready apps.
-- Work on redeveloping the backend of Imperial College London Rocketry's Pickle boart
+- Work on redeveloping the backend of Imperial College London Rocketry's Pickle board.
 
 ---
 
