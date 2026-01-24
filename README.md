@@ -13,11 +13,10 @@
 
 ## About Me
 
+- I am a student at Imperial College London studying Economics, Finance and Data Science.
 - I work through advanced ML/AI coursework and hands‑on projects (e.g. Stanford CS229 / CS224N style material).
 - I enjoy building end‑to‑end data workflows: from exploratory notebooks to deployable code.
 - I like experimenting with new tools and editors.
-
-> This profile mainly showcases my learning process, experiments, and small tools.
 
 ---
 
