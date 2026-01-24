@@ -106,6 +106,9 @@ I maintain my configuration in a dedicated repo:
 
 ---
 
+![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
+[![Siheon's Github Stats](https://github-readme-stats.vercel.app/api?username=slee7286&count_private=true&cache=true)](https://github.com/slee7286)
+
 ## 🧩 Tech I Use
 
 <p align="center">
@@ -115,6 +118,12 @@ I maintain my configuration in a dedicated repo:
   <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-Config-57A143?logo=neovim&logoColor=white" />
 </p>
+
+---
+
+## My contributions
+
+![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
 
 ---
 
