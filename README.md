@@ -10,9 +10,10 @@
 </p>
 
 ---
+<p align="center">
+  ![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
+</p>
 
-![Siheon's Github Profile Views](https://komarev.com/ghpvc/?username=slee7286&color=blueviolet)  
-[![Siheon's Github Stats](https://github-readme-stats.vercel.app/api?username=slee7286&count_private=true&cache=true)](https://github.com/slee7286)
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=slee7286&show_icons=true&theme=tokyonight"
