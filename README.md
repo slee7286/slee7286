@@ -62,15 +62,29 @@ A set of Jupyter notebooks exploring predictive modeling for JPX-style financial
 
 ---
 
-### 🎓 Course Work – ML & NLP
+### 🎓 Course Work
 
-I keep my course work in separate repositories, primarily in Python/Jupyter:
+I keep my course work in separate repositories:
 
 - **XCS229-Work** – Machine learning coursework and experiments (e.g. regression, SVMs, logistic regression, EM) ^1^   
   ➡️ [XCS229-Work](https://github.com/slee7286/XCS229-Work)
 
 - **XCS224N-Work** – Deep learning for NLP (word embeddings, RNNs/LSTMs, attention, transformers) ^1^   
-  ➡️ [XCS224N-Work](https://github.com/slee7286/XCS224N-Work)
+  ➡️ [XCS224N-Work]()
+
+| Course | Description |
+|-------|-------------|
+| [XCS229: Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
+| [XCS224N: Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
+| [XCS234: ](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning <br/>
+| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano del mio corso CSS3 - Slide ed esempi <br/>
+| [WCAG](https://github.com/matteobaccan/CorsoWCAG) | Materiale in italiano del mio corso WCAG - Slide ed esempi |
+| [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano del mio corso sull'intelligenza artificiale - Slide | 
+| [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano del mio corso di UX Design - Slide, domande di autovalutazione |
+| [SASS](https://github.com/matteobaccan/CorsoSASS) | Materiale in italiano propedeutico alla realizzazione di corsi SASS - Slide ed esempi | 
+| [Introduzione a Javascript](https://github.com/matteobaccan/CorsoJavascript) | Materiale in italiano propedeutico alla realizzazione di corsi Javascript - Slide ed esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/rxYLax?sort_by=itemcreatedat) |
+| [jQuery](https://github.com/matteobaccan/CorsojQuery) | Materiale in italiano propedeutico alla realizzazione di corsi jQuery - Slide e esempi <br/> [![CodePen](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/collection/LPzxzo?sort_by=itemcreatedat) |
+| [HTMX](https://github.com/matteobaccan/CorsoHTMX) | **in preparazione** Materiale in italiano propedeutico del mio corso HTMX - Slide ed esempi |
 
 These repos show my step‑by‑step derivations, implementations, and experiment notes.
 
