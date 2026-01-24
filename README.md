@@ -53,7 +53,7 @@ Developed a compact GPT‑style language model inspired by Karpathy’s minGPT a
 | [XCS229: Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
 | [XCS224N: Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
 | [XCS234: Reinforcement Learning](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning <br/>
-| [CSS](https://github.com/matteobaccan/CorsoCSS) | Materiale in italiano del mio corso CSS3 - Slide ed esempi <br/>
+| [Imperial Year 1 Trimester 1](https://github.com/slee7286/Module_Work) | BUSI40001: Mathematical Foundations, BUSI40002: Probability and Statistics, BUSI40003: Introduction to Data Science, BUSI40004: Big Issues in Economics and Finance <br/>
 | [WCAG](https://github.com/matteobaccan/CorsoWCAG) | Materiale in italiano del mio corso WCAG - Slide ed esempi |
 | [Introduzione alla AI](https://github.com/matteobaccan/CorsoAI) | Materiale in italiano del mio corso sull'intelligenza artificiale - Slide | 
 | [Introduzione alla UX](https://github.com/matteobaccan/CorsoUX) | Materiale in italiano del mio corso di UX Design - Slide, domande di autovalutazione |
