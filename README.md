@@ -32,7 +32,13 @@ Developed a compact GPT‑style language model inspired by Karpathy’s minGPT a
 
 Designed a neural machine translation system with a bidirectional LSTM encoder and unidirectional decoder, achieving BLEU 11.77 on the Bible corpus, demonstrating ability to handle low-resource languages.
 
-➡️ Repo: [Cherokee-English Machine Translational](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A4/src)
+➡️ Repo: [Cherokee-English Machine Translation](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A4/src)
+
+### Global GDP & Youth Employment Data Analysis
+
+Built end-to-end data pipelines in R using multi-source World Bank and custom datasets, delivering statistical EDA and visual analytics to quantify links between GDP growth, youth employment, and human development.
+
+➡️ Repo: [World Bank Data Analysis Project](https://github.com/slee7286/IDS_Project/blob/main/Final_Code_Deliverable.pdf)
 
 ---
 
