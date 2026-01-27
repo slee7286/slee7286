@@ -46,10 +46,10 @@ Built end-to-end data pipelines in R using multi-source World Bank and custom da
 
 | Course | Description |
 |------|-------------|
-| [Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
-| [Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
-| [Reinforcement Learning](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning |
-| [Imperial Year 1 Trimester 1](https://github.com/slee7286/Module_Work) | Mathematical Foundations, Probability and Statistics, Introduction to Data Science, Big Issues in Economics and Finance |
+| [Stanford: Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
+| [Stanford: Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
+| [Stanford: Reinforcement Learning](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning |
+| [Imperial: Year 1 Trimester 1](https://github.com/slee7286/Module_Work) | Mathematical Foundations, Probability and Statistics, Introduction to Data Science, Big Issues in Economics and Finance |
 
 These repos show my coding work, notes (in LaTeX), implementations, and experiments.
 
