@@ -22,23 +22,19 @@
 
 ## 🎯 Projects
 
-### Mini-GPT with Rotary Embeddings
-
-Developed a compact GPT‑style language model inspired by Karpathy’s minGPT and pre‑trained it on the Wikipedia corpus. Incorporated rotary positional embeddings (RoPE), achieving a 2.3× improvement in benchmark performance compared to a baseline model using standard positional embeddings.
-
-➡️ Repo: [Mini-GPT](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src)
-
-### Cherokee–English Seq2Seq NMT Model
-
-Designed a neural machine translation system with a bidirectional LSTM encoder and unidirectional decoder, achieving BLEU 11.77 on the Bible corpus, demonstrating ability to handle low-resource languages.
-
-➡️ Repo: [Cherokee-English Machine Translation](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A4/src)
-
-### Global GDP & Youth Employment Data Analysis
-
-Built end-to-end data pipelines in R using multi-source World Bank and custom datasets, delivering statistical EDA and visual analytics to quantify links between GDP growth, youth employment, and human development.
-
-➡️ Repo: [World Bank Data Analysis Project](https://github.com/slee7286/IDS_Project/blob/main/Final_Code_Deliverable.pdf)
+1. Mini-GPT with Rotary Embeddings - Built a compact GPT model pretrained on the Wikipedia corpus using rotary positional embeddings, improving benchmark performance by 2.3x over standard positional embeddings. (https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src/submission)
+2. Ricardo Pickle Board - Migrated a Python-based flight electronics control board backend to C++, improving runtime performance across a sensor array, 4 pyro channels, and 4 servo channels. (https://github.com/icl-rocketry/Ricardo-PickleRick)
+3. Kalman Filter State Estimation - Modelled a 19-state Extended Kalman Filter in Simulink fusing data from LIDAR, GPS, RTK, IMU, barometer, and magnetometer for real-time rocket state estimation, validated against a physics reference model. (https://github.com/icl-rocketry/State-Estimator-Simulink/tree/19_state_EKF)
+4. Flareify (ETH Oxford 2026 Hackathon) - Built a decentralised derivatives platform on Flare Coston2 supporting leveraged gas futures and stablecoin depeg protection, using Solidity contracts, a Next.js frontend, and Python/Node.js oracle infrastructure. (https://github.com/slee7286/eth-oxford-26-submission/tree/main)
+5. Speech-Therapy.ai (HackEurope 2026) - Built an AI-powered personalised speech and language therapy app for stroke-induced aphasia patients, using agentic AI, voice recognition, voice generation, and voice cloning to deliver accent-aware, life-relevant rehabilitation exercises. (https://github.com/slee7286/hackeurope2026)
+6. GlassPlate - Built a mobile application that visualizes the environmental impact of food consumption using computer vision, barcode scanning, and location detection. (https://github.com/slee7286/GlassPlate)
+7. Cherokee-English Seq2Seq NMT Model - Designed a neural machine translation system with a bidirectional LSTM encoder and unidirectional decoder, achieving a BLEU score of 11.77 on the Bible corpus for an extremely low-resource language. (https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A4/src)
+8. Independent Component Analysis Audio Separation - Implemented Laplace-prior ICA to separate mixed audio signals into independent source components. (https://github.com/slee7286/XCS229-Work/tree/main/XCS229-PS5/src-ica)
+9. Fashion-MNIST Image Classification - Trained a neural network to classify grayscale clothing images across 10 categories from the Fashion-MNIST benchmark dataset. (https://github.com/slee7286/XCS229-Work/tree/main/XCS229-PS4/src-mnist)
+10. Global GDP and Youth Employment Data Analysis - Built end-to-end data pipelines in R using World Bank datasets, delivering statistical EDA and visual analytics to quantify relationships between GDP growth, youth employment, and human development. (https://github.com/slee7286/IDS_Project/blob/main/Final_Code_Deliverable.pdf)
+11. Spam Classifier - Implemented Naive Bayes and SVM approaches to detect SMS spam messages, comparing probabilistic and margin-based classification methods. (https://github.com/slee7286/XCS229-Work/tree/main/XCS229-PS4/src-spam)
+12. MuJoCo Physics Simulations - Applied REINFORCE policy gradient methods with variance reduction for continuous control tasks including hopping, running, and inverted pendulum stabilisation. (https://github.com/slee7286/XCS234-Work/tree/main/XCS234-A3/src/submission)
+13. Warfarin Drug Dosage Algorithms - Implemented and compared pharmacogenetic, clinical, and fixed-dose warfarin dosing strategies using LinUCB, epsilon-greedy, Thompson Sampling, and other multi-armed bandit algorithms. (https://github.com/slee7286/XCS234-Work/tree/main/XCS234-A5/src)
 
 ---
 
