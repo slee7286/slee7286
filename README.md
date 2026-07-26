@@ -20,6 +20,16 @@
 
 ---
 
+## Current Work
+
+- For the summer I am interning at three different firms.
+  - Really Good Culture (predictive retail intelligence system/dashboard company) where I am working as a Full Stack Engineer Intern
+  - Deep.Meta (AI optimisation software company designed for real-time inference in steel production) where I am working as a Reinforcement Learning Engineer Intern
+  - EduNova (tutoring website pulling UK top university student tutors) where I am working as a Software Engineer Intern
+- All these companies have private repositories, so my summer coding work isn't visible.
+
+---
+
 ## 🎯 Projects
 
 1. Mini-GPT with Rotary Embeddings - Built a compact GPT model pretrained on the Wikipedia corpus using rotary positional embeddings, improving benchmark performance by 2.3x over standard positional embeddings. (https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src/submission)
