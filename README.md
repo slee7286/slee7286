@@ -26,7 +26,7 @@
   - Really Good Culture (predictive retail intelligence system/dashboard company) where I am working as a Full Stack Engineer Intern
   - Deep.Meta (AI optimisation software company designed for real-time inference in steel production) where I am working as a Reinforcement Learning Engineer Intern
   - EduNova (tutoring website pulling UK top university student tutors) where I am working as a Software Engineer Intern
-- All these companies have private repositories, so my summer coding work isn't visible.
+- All these companies have private repositories using company emails, so my summer coding work isn't visible.
 
 ---
 
