@@ -21,7 +21,7 @@
 I'm studying for a BSc in Economics, Finance and Data Science at Imperial College London (2025–2028). I work at the intersection of machine learning, optimisation, data infrastructure, and production software engineering.
 
 - President of Imperial College London's Economics, Finance & Data Science Society
-- Google Student Ambassador
+- Google Student Ambassador (selected from over 300,000 applicants globally)
 - Selected for Y Combinator's Paris Startup School 2026 (400 selected from 4,000+ applicants)
 - Particularly interested in AI infrastructure, industrial ML, retrieval and knowledge systems, quantitative engineering, and reliable agentic software
 
