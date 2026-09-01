@@ -1,94 +1,99 @@
 <!-- Profile README for github.com/slee7286 -->
 
-<h1 align="center">Hi there, I'm Siheon 👋</h1>
+<h1 align="center">Hi, I'm Siheon Lee 👋</h1>
+
+<p align="center">
+  <strong>AI/ML engineer building optimisation, data, and full-stack software systems</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/slee7286">GitHub</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-coursework">Coursework</a> •
-  <a href="#-current-work">Current Work</a>
+  <a href="https://www.linkedin.com/in/siheon-lee/">LinkedIn</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#selected-work">Selected Work</a> •
+  <a href="#coursework">Coursework</a>
 </p>
 
 ---
 
-## About Me
+## About
 
-- I am a student at Imperial College London studying Economics, Finance and Data Science.
-- I work through advanced ML/AI coursework and hands‑on projects.
-- I enjoy building end‑to‑end data workflows: from exploratory notebooks to deployable code (CI/CD).
-- I like experimenting with new tools and editors.
+I'm studying for a BSc in Economics, Finance and Data Science at Imperial College London (2025–2028). I work at the intersection of machine learning, optimisation, data infrastructure, and production software engineering.
 
----
+- President of Imperial College London's Economics, Finance & Data Science Society
+- Google Student Ambassador
+- Selected for Y Combinator's Paris Startup School 2026 (400 selected from 4,000+ applicants)
+- Particularly interested in AI infrastructure, industrial ML, retrieval and knowledge systems, quantitative engineering, and reliable agentic software
 
-## Current Work
+Much of my recent company work is in private repositories. My public work spans Python services, PostgreSQL/Supabase platforms, retrieval and model systems, Next.js applications, optimisation, reinforcement learning, quantitative trading infrastructure, and systems tooling.
 
-- For the summer I am interning at three different firms.
-  - Really Good Culture (predictive retail intelligence system/dashboard company) where I am working as a Full Stack Engineer Intern
-  - Deep.Meta (AI optimisation software company designed for real-time inference in steel production) where I am working as a Reinforcement Learning Engineer Intern
-  - EduNova (tutoring website pulling UK top university student tutors) where I am working as a Software Engineer Intern
-- All these companies have private repositories using company emails, so my summer coding work isn't visible.
+## What I'm Building Now
 
----
+- A local-first AI software factory for sandboxed coding-agent campaigns, independent verification, and controlled promotion to commits and pull requests
+- Multi-source institutional-memory platforms with versioned ingestion, provenance, hybrid retrieval, citations, and permission-aware access
+- Multi-task NLP tagging and efficient inference systems, including transformer fine-tuning and ONNX deployment
+- Reliable automation with explicit boundaries, human approval gates, strong tests, and recoverable execution
 
-## 🎯 Projects
+## Experience
 
-1. Mini-GPT with Rotary Embeddings - Built a compact GPT model pretrained on the Wikipedia corpus using rotary positional embeddings, improving benchmark performance by 2.3x over standard positional embeddings. (https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src/submission)
-2. Kalman Filter State Estimation - Modelled a 19-state Extended Kalman Filter in Simulink fusing data from LIDAR, GPS, RTK, IMU, barometer, and magnetometer for real-time rocket state estimation, validated against a physics reference model. (https://github.com/icl-rocketry/State-Estimator-Simulink/tree/19_state_EKF)
-3. Flareify (ETH Oxford 2026 Hackathon) - Built a decentralised derivatives platform on Flare Coston2 supporting leveraged gas futures and stablecoin depeg protection, using Solidity contracts, a Next.js frontend, and Python/Node.js oracle infrastructure. (https://github.com/slee7286/eth-oxford-26-submission/tree/main)
-4. Speech-Therapy.ai (HackEurope 2026) - Built an AI-powered personalised speech and language therapy app for stroke-induced aphasia patients, using agentic AI, voice recognition, voice generation, and voice cloning to deliver accent-aware, life-relevant rehabilitation exercises. (https://github.com/slee7286/hackeurope2026)
-5. GlassPlate (Diamond Challenge 2024) - Built a mobile application that visualizes the environmental impact of food consumption using computer vision, barcode scanning, and location detection. (https://github.com/slee7286/GlassPlate)
-6. Cherokee-English Seq2Seq NMT Model - Designed a neural machine translation system with a bidirectional LSTM encoder and unidirectional decoder, achieving a BLEU score of 11.77 on the Bible corpus for an extremely low-resource language. (https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A4/src)
-7. Independent Component Analysis Audio Separation - Implemented Laplace-prior ICA to separate mixed audio signals into independent source components. (https://github.com/slee7286/XCS229-Work/tree/main/XCS229-PS5/src-ica)
-8. Fashion-MNIST Image Classification - Trained a neural network to classify grayscale clothing images across 10 categories from the Fashion-MNIST benchmark dataset. (https://github.com/slee7286/XCS229-Work/tree/main/XCS229-PS4/src-mnist)
-9. Global GDP and Youth Employment Data Analysis - Built end-to-end data pipelines in R using World Bank datasets, delivering statistical EDA and visual analytics to quantify relationships between GDP growth, youth employment, and human development. (https://github.com/slee7286/IDS_Project/blob/main/Final_Code_Deliverable.pdf)
-10. Spam Classifier - Implemented Naive Bayes and SVM approaches to detect SMS spam messages, comparing probabilistic and margin-based classification methods. (https://github.com/slee7286/XCS229-Work/tree/main/XCS229-PS4/src-spam)
-11. MuJoCo Physics Simulations - Applied REINFORCE policy gradient methods with variance reduction for continuous control tasks including hopping, running, and inverted pendulum stabilisation. (https://github.com/slee7286/XCS234-Work/tree/main/XCS234-A3/src/submission)
-12. Warfarin Drug Dosage Algorithms - Implemented and compared pharmacogenetic, clinical, and fixed-dose warfarin dosing strategies using LinUCB, epsilon-greedy, Thompson Sampling, and other multi-armed bandit algorithms. (https://github.com/slee7286/XCS234-Work/tree/main/XCS234-A5/src)
+- **Deep.Meta — Reinforcement Learning Engineer Intern (Jul–Sep 2026):** Supporting development and evaluation of reinforcement learning and machine learning (ML) models for steel manufacturing optimization, with a focus on predictive systems, industrial time-series data, and digital-twin applications.
+- **Really Good Culture — Full-Stack Engineer Intern (Jul–Oct 2026):** Improving ETL pipelines, supporting agentic orchestration products and dashboard development by building user-facing features, and contributing to multi-layer intelligence integrations across retail, brand, and macro/micro signals.
+- **EduNova — Software Engineer Intern (Jun–Aug 2026):** Improved lesson history navigation by building filters in TypeScript/Next.js, synchronizing tables, summary widgets, and empty states. Automated contract generation with a LaTeX pipeline integrating PDF compilation, uploads, email delivery, progress updates, and testing
 
----
+## Selected Work
 
-### 🎓 Coursework
+- **[EFDS Knowledge Platform](https://github.com/slee7286/efds-knowledge-base)** — An end-to-end institutional-memory and AI platform for Imperial's EFDS Society: multi-source ingestion, PostgreSQL/Supabase, schema migrations, provenance, hybrid retrieval, embeddings, row-level security, a FastAPI agent service, streamed cited responses, and a Next.js/TypeScript application. Related repos: [agent](https://github.com/slee7286/efds-agent) · [site](https://github.com/slee7286/efds-site).
+- **[Startup Knowledge Base](https://github.com/slee7286/flux-knowledge-base)** — A multi-source knowledge system ingesting Slack, Linear, GitHub, Attio, files, and structured records into versioned PostgreSQL documents and retrieval units, with embeddings, hybrid search, provenance, an HTTP API, and MCP access.
+- **[codex-autoapprover](https://github.com/slee7286/codex-autoapprover)** — A security-conscious Rust launcher for structured Codex CLI permission hooks, with child-local arming, exact compatibility gating, fail-closed behaviour, protocol tests, threat modelling, and isolated verification.
+- **[Model-to-Market Trading Bot](https://github.com/slee7286/model-to-market-the-quantitative-hack-2026)** — A dry-run-first MT5 FX/crypto system with typed configuration, market-data collection, deterministic features, offline backtesting, pre-trade risk controls, SQLite storage, reconciliation, analytics, and guarded live execution.
+- **[Mini-GPT with Rotary Embeddings](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src/submission)** — Built and pretrained a compact GPT on a Wikipedia corpus using rotary positional embeddings, improving benchmark performance by 2.3× over the standard positional-embedding baseline.
+- **[Rocket State Estimation](https://github.com/icl-rocketry/State-Estimator-Simulink/tree/19_state_EKF)** — Modelled a 19-state Kalman-filter estimator in MATLAB/Simulink, fusing LiDAR, GPS, RTK, IMU, barometer, and magnetometer data for real-time flight-state estimation.
+- **[MetaTrader 5 Algorithmic Trading Platform](https://github.com/slee7286/model-to-market-the-quantitative-hack-2026)** — A Model to Market 2026 Hackathon finalist: an end-to-end Python platform integrating live FX and cryptocurrency data, signal generation, backtesting, risk validation, and guarded live execution. Its volatility-managed momentum strategy uses ATR-based exits, spread and slippage guards, portfolio exposure limits, drawdown controls, SQLite-backed evaluation, and a fully auditable execution pipeline.
+- **[Retail Intelligence Dashboard](https://github.com/slee7286/retail-dashboard-project)** — A retail analytics platform that transforms 130 consumer transcripts and product metadata into interactive, evidence-backed insights, with deterministic signal extraction and positioning-gap analysis across consumer voice, products, pricing, and brand context.
 
-| Course | Description |
-|------|-------------|
-| [Stanford: Machine Learning](https://github.com/slee7286/XCS229-Work) | Introduction to machine learning and statistical pattern recognition |
-| [Stanford: Natural Language Processing with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Fundamentals of natural language processing (NLP) and language models using Pytorch framework |
-| [Stanford: Reinforcement Learning](https://github.com/matteobaccan/CorsoHTML) | Main approaches and challenges in reinforcement learning |
-| [Imperial: Year 1 Trimester 1](https://github.com/slee7286/Module_Work) | Mathematical Foundations, Probability and Statistics, Introduction to Data Science, Big Issues in Economics and Finance |
+### Machine Learning and Quantitative Research
 
-These repos show my coding work, notes (in LaTeX), implementations, and experiments.
+- **[Mini-GPT with Rotary Embeddings](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A5/src/submission)** — Developed and pretrained a compact GPT inspired by minGPT on a Wikipedia corpus, using rotary positional embeddings to improve benchmark performance by 2.3× over the basic positional-embedding baseline.
+- **[Rocket State Estimation](https://github.com/icl-rocketry/State-Estimator-Simulink/tree/19_state_EKF)** — Modelled a 19-state Extended Kalman Filter in MATLAB/Simulink, fusing seven sensor inputs for real-time flight-state estimation and validating it against a physics reference model.
+- **[Cherokee–English Seq2Seq NMT](https://github.com/slee7286/XCS224N-Work/tree/main/XCS224N%20A4/src)** — Designed a neural translation system with a bidirectional LSTM encoder and unidirectional decoder, achieving a BLEU score of 11.77 on an extremely low-resource Bible corpus.
+- **[MuJoCo Physics Simulations](https://github.com/slee7286/XCS234-Work/tree/main/XCS234-A3/src/submission)** — Applied REINFORCE policy gradients with variance reduction to continuous-control tasks including hopping, running, and inverted-pendulum stabilisation.
+- **[Warfarin Dosage Bandit Algorithms](https://github.com/slee7286/XCS234-Work/tree/main/XCS234-A5/src)** — Implemented and compared pharmacogenetic, clinical, and fixed-dose strategies using LinUCB, epsilon-greedy, Thompson Sampling, and other multi-armed bandit algorithms.
 
----
+### Hackathon Builds
 
-## 📚 Current Work
+- **[Flareify — ETH Oxford 2026](https://github.com/slee7286/eth-oxford-26-submission)** — Developed a decentralised derivatives platform on Flare Coston2 supporting leveraged gas futures and stablecoin depeg protection, using Solidity contracts, a Next.js frontend, and Python/Node.js oracle infrastructure. Solana engineers later invited the team to continue pursuing the project through Superteam Ireland.
+- **[Speech-Therapy.ai — HackEurope 2026](https://github.com/slee7286/hackeurope2026)** — Built an agentic, voice-first speech and language therapy application for people with stroke-induced aphasia, delivering accent-aware, personalised exercises through LLM orchestration, speech recognition, voice generation, and voice cloning.
 
-- Advanced machine learning and optimization techniques.
-- Modern NLP (transformers, attention, representation learning).
-- Better software engineering practices (testing, structure, reproducibility).
-- Improving my C++, Python, and Javascript skills for production‑ready apps.
-- Work on redeveloping the backend of Imperial College London Rocketry's Pickle board.
+## Coursework
 
----
+| Programme | Selected work |
+|---|---|
+| [Stanford: Machine Learning](https://github.com/slee7286/XCS229-Work) | Statistical learning, classification, neural networks, ICA, and applied ML implementations |
+| [Stanford: NLP with Deep Learning](https://github.com/slee7286/XCS224N-Work) | Word vectors, sequence models, neural machine translation, attention, and language modelling |
+| [Stanford: Reinforcement Learning](https://github.com/slee7286/XCS234-Work) | MDPs, policy gradients, continuous control, exploration, and contextual bandits |
+| [Imperial: EFDS Year 1](https://github.com/slee7286/Module_Work_Y1) | Mathematical Foundations, Probability and Statistics, Data Structures and Algorithms, Introduction to Data Science, and Economics and Finance |
 
-## 🧩 Tech I Use
+These repositories contain implementations, experiments, reports, and LaTeX notes from Imperial and the Stanford AI Professional Program.
+
+## Tech
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-Qt%20Apps-blue?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Conda-Env%20Mgmt-44A833?logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-Backend-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-Numerics-0076A8?logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Stats-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-Automation-217346?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-Systems-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Databases-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slee7286&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=slee7286&color=blueviolet" alt="Profile views" />
 </p>
 
 <!---
